@@ -1,6 +1,6 @@
 # Quiz JS
 
-![LogoJS](https://res.cloudinary.com/juancms98/image/upload/v1635658504/javascript-1_akpi8w.svg)
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1635658504/javascript-1_akpi8w.svg" width="700" heigth="700">
 
 ## 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 
@@ -366,7 +366,7 @@ function getObject(obj) {
 - [Twitter](https://twitter.com/juancms98)
 - [Facebook](https://www.facebook.com/profile.php?id=100067363884753)
 - [Instagram](https://www.instagram.com/juancms98/)
-- [My Web site](https://juancms98.github.io/Portfolio/)
+- [My Web site](https://juancodev.github.io/Portfolio/)
 
-![Logo](https://res.cloudinary.com/juancms98/image/upload/v1653978683/logo.png)
-![User](https://res.cloudinary.com/juancms98/image/upload/v1630885661/juancms98_yzbssj.png)
+![Logo](https://res.cloudinary.com/juancms98/image/upload/v1665415315/logo_omudfv.png)
+<img src="https://res.cloudinary.com/juancms98/image/upload/v1630885661/juancms98_yzbssj.png" width="700" heigth="700">
